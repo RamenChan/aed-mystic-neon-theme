@@ -23,7 +23,7 @@ Hoş geldin, hacker ruhlu geliştirici! 🚀 **AED Cyberpunk Ultra** ile kod yaz
 3️⃣ **Hemen Kodlamaya Başla!** 🚀
 
 ## 🚀 Katkıda Bulun
-🎨 Daha fazla geliştirme öneriniz mi var? Bir PR gönder veya [issue aç!](https://github.com/anilemredurak/aed-cyberpunk-ultra)
+🎨 Daha fazla geliştirme öneriniz mi var? Bir PR gönder veya [issue aç!](https://github.com/ramenchan/aed-cyberpunk-ultra)
 
 Kod yazarken Cyberpunk 2077 atmosferi mi istiyorsun? **Bu tema tam sana göre!** 🔥😎
 
