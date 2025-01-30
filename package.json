@@ -1,0 +1,21 @@
+{
+  "name": "aed-mystic-neon-theme",
+  "displayName": "AED Mystic Neon Theme",
+  "description": "A neon hacker-style dark theme for developers and cybersecurity enthusiasts",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RamenChan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RamenChan-color-theme.json"
+      }
+    ]
+  }
+}
