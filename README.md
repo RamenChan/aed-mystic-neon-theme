@@ -1,4 +1,4 @@
-# 🌌 AED Cyberpunk Ultra - VS Code Tema
+# 🌌 AED Mystic Ultra - VS Code Tema
 
 Hoş geldin, hacker ruhlu geliştirici! 🚀 **AED Cyberpunk Ultra** ile kod yazarken kendini bir siberpunk şehrinin neon ışıkları arasında kaybolmuş gibi hissedeceksin. 💜💚💙
 
