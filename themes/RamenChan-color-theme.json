@@ -1,21 +1,36 @@
-/*
-*/
 {
-	"name": "AED Mystic Neon",
+	"name": "AED Cyberpunk Neon",
 	"colors": {
-		"editor.background": "#0d0d0d",
-		"editor.foreground": "#ffffff",
+		"editor.background": "#050505",
+		"editor.foreground": "#d0d0d0",
 		"editorCursor.foreground": "#39ff14",
-		"editor.lineHighlightBackground": "#222222",
-		"editor.selectionBackground": "#66339988",
+		"editor.lineHighlightBackground": "#121212",
+		"editor.selectionBackground": "#ff00ff55",
 		"editor.selectionHighlightBackground": "#39ff1422",
-		"editor.findMatchBackground": "#ff149366",
-		"editor.findMatchBorder": "#ff1493",
-		"activityBarBadge.background": "#39ff14",
-		"sideBarTitle.foreground": "#bbbbbb",
-		"terminal.background": "#0d0d0d",
+		"editor.findMatchBackground": "#ff007755",
+		"editor.findMatchBorder": "#ff0077",
+		"activityBar.background": "#080808",
+		"activityBar.foreground": "#39ff14",
+		"activityBarBadge.background": "#ff0077",
+		"sideBar.background": "#101010",
+		"sideBar.foreground": "#bbbbbb",
+		"sideBarTitle.foreground": "#ffffff",
+		"statusBar.background": "#080808",
+		"statusBar.foreground": "#39ff14",
+		"terminal.background": "#0a0a0a",
 		"terminal.foreground": "#39ff14",
-		"terminalCursor.foreground": "#39ff14"
+		"terminalCursor.foreground": "#ff0077",
+		"breadcrumb.foreground": "#ff00ff",
+		"breadcrumb.activeSelectionForeground": "#ff0077",
+		"editorGroup.border": "#222222",
+		"editorGutter.background": "#101010",
+		"editorIndentGuide.background": "#222222",
+		"editorIndentGuide.activeBackground": "#39ff14",
+		"list.activeSelectionBackground": "#39ff1455",
+		"list.hoverBackground": "#222222",
+		"tab.activeBackground": "#121212",
+		"tab.inactiveBackground": "#080808",
+		"tab.border": "#222222"
 	},
 	"tokenColors": [
 		{
@@ -26,7 +41,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#757575"
 			}
 		},
 		{
@@ -49,7 +64,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ff1493"
+				"foreground": "#ff0077"
 			}
 		},
 		{
@@ -91,25 +106,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
-			}
-		},
-		{
-			"name": "JSON Key - Level 0",
-			"scope": [
-				"source.json meta.structure.dictionary.json support.type.property-name.json"
-			],
-			"settings": {
-				"foreground": "#C792EA"
-			}
-		},
-		{
-			"name": "JSON Key - Level 1",
-			"scope": [
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
-			],
-			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffcc00"
 			}
 		},
 		{
@@ -121,6 +118,15 @@
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#39ff14"
+			}
+		},
+		{
+			"name": "JSON Keys",
+			"scope": [
+				"support.type.property-name.json"
+			],
+			"settings": {
+				"foreground": "#ff0077"
 			}
 		}
 	]
