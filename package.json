@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "RamenChan",
+        "label": "AED Mystic Neon",
         "uiTheme": "vs-dark",
         "path": "./themes/RamenChan-color-theme.json"
       }
